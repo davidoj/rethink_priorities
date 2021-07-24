@@ -1,6 +1,6 @@
 # Rethink priorities job application
 
-The write-up is in the notebook.
+The submission is in Rethink Priorities Application.ipynb
 
 To run (pick a name for your virtual environment other than venv)
 
