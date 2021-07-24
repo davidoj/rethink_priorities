@@ -1,5 +1,7 @@
 # Rethink priorities job application
 
+The write-up is in the notebook.
+
 To run (pick a name for your virtual environment other than venv)
 
 ```
